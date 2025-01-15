@@ -4,7 +4,7 @@
 <h2>Result</h2>
 <div>
   <p>results when running the program</p>
-  ![Movingbubbles](video.gif)
+  ![Feature demo](demo/video.gif)
 
 
 </div>
