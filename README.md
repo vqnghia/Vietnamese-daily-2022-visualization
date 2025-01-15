@@ -4,7 +4,7 @@
 <h2>Result</h2>
 <div>
   <p>results when running the program</p>
-  ![Feature demo](demo/video.gif)
+  <img src="demo/video.gif" alt="demo" width="600" height="500">
 
 
 </div>
