@@ -5,6 +5,7 @@
 <div>
   <p>results when running the program</p>
   <img src="demo/video.gif" alt="demo" width="800" height="500">
-
-
 </div>
+<h2>Requirements</h2>
+<p>Pandas</p>
+<p>D3Blocks</p>
