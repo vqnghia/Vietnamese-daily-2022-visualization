@@ -4,7 +4,7 @@
 <h2>Result</h2>
 <div>
   <p>results when running the program</p>
-  <p>![Movingbubbles - D3Blocks - Google Chrome 2025-01-15 15-30-16](https://github.com/user-attachments/assets/a04a88fa-0f8e-42cd-b17d-9df05e2c4715)</p>
+  ![Movingbubbles](video.gif)
 
 
 </div>
